@@ -135,8 +135,8 @@ export default class Projects extends Component {
 											<h3><a href="work.html">Personal Website V2</a></h3>
 											<span>My first portfolio website I designed and built in 2019. I learned quite a bit about HTML, CSS, and SEO. Since then, I think my web development and design skills have improved immensely.</span>
 											<p className="icon">
-												<span><a href="#"><i className="icon-share3" /></a></span>
-												<span><a href="#"><i className="icon-github" /></a></span>
+												<span><a href="https://kanatagatsby.netlify.com"><i className="icon-share3" /></a></span>
+												<span><a href="https://github.com/Kanamomoruru/Gatsby"><i className="icon-github" /></a></span>
 												<span>Gatsby, SCSS</span>
 											</p>
 										</div>
