@@ -25,7 +25,7 @@ export default class Sidebar extends Component {
             </nav>
             <nav id="colorlib-main-menu2">
               <ul>
-                <li><a href="https://www.facebook.com/kanata.shimomoto" target="_blank" rel="noopener noreferrer"><i className="icon-facebook2" /></a></li>
+                <li><a href="https://www.facebook.com/profile.php?id=100010161048939" target="_blank" rel="noopener noreferrer"><i className="icon-facebook2" /></a></li>
                 {/* <li><a href="https://twitter.com/ddbarochiya" target="_blank" rel="noopener noreferrer"><i className="icon-twitter2" /></a></li> */}
                 <li><a href="https://www.instagram.com/kanapooh3/?hl=en" target="_blank" rel="noopener noreferrer"><i className="icon-instagram" /></a></li>
                 <li><a href="https://www.linkedin.com/in/kanata-shimomoto-026438160/" target="_blank" rel="noopener noreferrer"><i className="icon-linkedin2" /></a></li>
